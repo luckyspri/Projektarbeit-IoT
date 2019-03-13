@@ -10,6 +10,10 @@ Die Plattform wurde offen gestaltet, sodass sie auch als Basis für weitere IoT-
 
 Die Projektarbeit wurde dankenswerter Weise durch Prof. Ulrich J. Behnen betreut.
 
+Eine Erklärung des gesamten Aufbaus liegt in Form der Projektarbeit vor. Diese ist bei Herrn Behnen einsehbar.
+Darin wird der erläutert, welche Sensoren wie angeschlossen werden müssen.
+
+
 Wir wünschen viel Spaß mit der Website und dem Ergebnis des Projekts
 
 
